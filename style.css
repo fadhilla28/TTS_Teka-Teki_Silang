@@ -40,7 +40,7 @@ li {
   float: left;
   height: 30px;
   width: 45px;
-  display: inline-block;
+  /* display: inline-block; */
   border: 1px solid grey;
 }
 .bleck {
